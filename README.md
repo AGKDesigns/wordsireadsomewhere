@@ -1,0 +1,2 @@
+# wordsireadsomewhere
+Minimal Quotes project

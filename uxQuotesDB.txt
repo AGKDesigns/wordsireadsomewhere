@@ -1,0 +1,57 @@
+1^0^01101000 01100101 01101100 01101100 01101111 00100000 01110111 01101111 01110010 01101100 01100100 
+Albert Einstein^Theoretical physicist^Logic will take you from A to B. Imagination will take you everywhere.
+Idris Mootee^CEO of Idea Couture^This disruption has not been so kind to businesses operating by the rules of the old model. We don't have to watch their ads anymore. We don't believe their marketing hype anymore. We don't want to eat their junk ingredients anymore. We don't have to buy from their stores anymore. And we don't want the best of them to just be profit machines anymore. We want more, when we want it, how we want it, and at the price we want it.
+Sam Altman^President of Y Combinator^A word of warning about choosing to start a startup: It sucks.
+Steve Krug^User Experience Professional^If you can't make something self evident, you at least need to make it self explanatory.
+Steve Krug^User Experience Professional^Krugs second law of usability. It doesn't matter how many times I have to click, as long as each click is a mindless, unambiguous choice.
+Albert Einstein^Theoretical physicist^We can’t solve problems by using the same kind of thinking we used when we created them.
+Ellen J. Langer^Harvard psycologist^Perceived control is very important, it diminishes stress and promotes well being.
+Unknown^Unknown^Everybody has a testing environment. Some people are just lucky enough to have a totally separate environment to run production in.
+Daft Punk^Band^Work it harder, make it better, do it faster, makes us stronger, more than ever, hour after hour, our work is never over.
+Peter Merholz^Product management and Design executive^Interface is a component of user experience, but there’s much more.
+Dan Saffer^Product Designer^I’ve had clients tell me not to worry about what their strategy is, because why would a designer care about that? UX is more than just skin deep.
+Liz Danzico^Creative Director^User experience design isn’t a checkbox, you don’t do it and then move on. It needs to be integrated into everything you do.
+Unknown^Unknown^Don't confuse simplicity with minimalism.
+Joel Marsh^Experience Architect^If God was a UX designer, we would each be sitting in a small, dark, sound-proof room, in a comfortable chair, on a device that could only display his website or app. Who knows, maybe we are.
+Albert Einstein^Theoretical physicist^Make things as simple as possible but no simpler.
+Ludwig Mies Van Der Rohe^Architect^Less is more.
+William Morris^Poet^Have nothing in your homes that you do not know to be useful or believe to be beautiful.
+Leo Tolstoy^Writer^There is no greatness where there is not simplicity, goodness, and truth.
+Mario Andretti^Racing Driver^If everything seems under control, you’re just not going fast enough.
+Jenny Chen^Usability Consultant^It is no longer enough to simply offer a product translated in ten to twenty different languages. Users also want a product that acknowledges their unique cultural characteristics and business practices.
+Cassius Kiani^Partner at Mikleo^You cannot and will not learn from success, in the same way you will learn from failure. 
+Nina Geometrieva^Designer // Illustrator^Clients from hell are nothing but ordinary people who don’t have a good workflow and end up improvising a lot.
+Nina Geometrieva^Designer // Illustrator^Forcing consistency is not always the best way to go. Sometimes it’s necessary to design for context, even at the price of breaking the consistency. Fonts are a good example.
+Alexis Collado^UX Designer^Design isn’t about how things look—it’s a plan, strategy, and an execution.
+Alexis Collado^UX Designer^Educating clients and stakeholders about UX is part of the job. Not doing so will cause you more headaches in the long run.
+John Cutler^Product Developer^Keeping us busy is not the goal. The outcome is the goal.
+Charles Mingus^Jazz Musician^Making the simple complicated is commonplace; making the complicated simple, awesomely simple, that’s creativity.
+Richard Branson^Virgin Group Founder^You don’t learn to walk by following the rules, you learn by doing and falling over.
+Thomas Edison^Inventor^To invent, you need a good imagination and a pile of junk.
+Jim Ryun^Athlete^Motivation is what gets your started. Habit is what keeps you going.
+George Earle Buckle^Editor and Biographer^To simplify complications is the first essential of success.
+Oscar Wilde^Author^Be yourself, everyone else is already taken.
+Murial Garreta Domingo^Design Educator^Making something look simple is easy. Making something simple to use is much harder
+Murial Garreta Domingo^Design Educator^Don’t take “It’s always been that way” for an answer.
+Murial Garreta Domingo^Design Educator^Accessible design is good design.
+C.W Ceram^Author & Journalist^Genius is the ability to reduce the complicated to the simple.
+Stephen Wiltshire^Artist^It’s easy for me to remember things I find interesting.
+Charles Eames^Designer^The details are not the details. They are the design.
+Sally Bibb^Author^Companies die because experience is favoured over learning.
+Laura Javier^Designer^Fall in love with a problem, not a specific solution.
+Unknown^Unknown^Ease of use may be invisible, but its absense isn't.
+Lester Beall^Graphic Designer^The moment clients realize that revisions are not an all-you-can-eat buffet, suddenly they realize they are not hungry.
+Coco Chanel^Fashion Designer^Simplicity is the keynote of all true elegance.
+Steve Jobs^Entrepreneur^That's been one of my mantras - focus and simplicity. Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple. But it's worth it in the end because once your get there, you can move mountains.
+Joe Sparano^Graphic Designer^Good design is obvious. Great design is transparent.
+Edward Tufte^Statistician^Good design is a lot like clear thinking made visual.
+Steve Blank^Serial Entrepreneur^Get out of the building and start learning!
+Bill Kiely^VP of Product Design @ InVision^For the companies disrupting the market today, design is no longer just a “stage” in the business process — it is the language of business.
+Bill Kiely^VP of Product Design @ InVision^They aren’t designing just to delight or innovate, but to — above all else — solve a problem.
+Braden Kowitz^Google Ventures^Understanding how design directly impacts your user makes you powerful. That power makes you dangerous to incumbents.
+Unknown^Unknown^Roses are #FF0000 - Violets are #0000FF.
+Jake the Dog^Adventure time hero^Dude, suckin' at something is the first step to being sorta good at something.
+Haruki Murakami^Author^ If you only read the books that everyone else is reading, you can only think what everyone else is thinking.
+Brad Wieners^Writer^Interactive design is a seamless blend of graphic arts, technology, and psychology.
+Frank Chimero^Designer^People ignore designs that ignore people.
+Marcus Aurelius^Emperor of Rome^Everything we hear is an opinion, not a fact. Everything we see is a perspective, not the truth"
